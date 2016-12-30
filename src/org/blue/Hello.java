@@ -3,10 +3,11 @@ package org.blue;
 public class Hello {
 	public void say(String s) {
 		System.out.println(s);
-		System.out.println("¿Í»§¶ËËµ¡£¡£¡£¡£¡£");
+		System.out.println("å®¢æˆ·ç«¯è¯´ã€‚ã€‚ã€‚ã€‚ã€‚");
 	}
 
 	public static void mian(String[] args) {
 		System.out.println("hello world");
+		System.out.println("æœåŠ¡å™¨ç«¯ä»£ç ");
 	}
 }
